@@ -40,7 +40,6 @@ echo The script will now wait for Gorilla Tag to launch
 
     :found
     TIMEOUT /T 3
-    taskkill /IM "Gorilla Tag.exe"
     echo Gorilla Tag found. Waiting 15 seconds before changing registry
     TIMEOUT /T 15
     reg delete "HKEY_CURRENT_USER\Software\Another Axiom\Gorilla Tag" /v "tutorial_h1181564969" /f
