@@ -30,4 +30,20 @@ cd ../LocalLow/"Another Axiom/Gorilla Tag"
 echo:
 echo Please click "Unban" on Monotone Spoofer. Then login with a new steam account
 echo:
-pause
+echo The script will now wait for Gorilla Tag to launch
+
+    :search
+    tasklist|find "Gorilla Tag.exe"
+    IF %ERRORLEVEL% == 0 GOTO :found
+    TIMEOUT /T 1
+    GOTO :search
+
+    :found
+    TIMEOUT /T 3
+    taskkill /IM "Gorilla Tag.exe"
+    echo Gorilla Tag found. Waiting 15 seconds before changing registry
+    TIMEOUT /T 15
+    reg delete "HKEY_CURRENT_USER\Software\Another Axiom\Gorilla Tag" /v "tutorial_h1181564969" /f
+    reg delete "HKEY_CURRENT_USER\Software\Another Axiom\Gorilla Tag" /v "savedMOTD_h1146162546" /f
+    REG ADD "HKEY_CURRENT_USER\Software\Another Axiom\Gorilla Tag" /v "savedMOTD_h1146162546" /t REG_BINARY  /d "5468616e6b20796f7520666f72207573696e67206d79207363726970742e204279205a65746178" /f
+    REG ADD "HKEY_CURRENT_USER\Software\Another Axiom\Gorilla Tag" /v "tutorial_h1181564969" /t REG_BINARY  /d "646f6e6500" /f
