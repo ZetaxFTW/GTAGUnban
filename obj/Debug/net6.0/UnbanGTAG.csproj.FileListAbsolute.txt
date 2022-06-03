@@ -1,0 +1,15 @@
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\bin\Debug\net6.0\UnbanGTAG.exe
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\bin\Debug\net6.0\UnbanGTAG.deps.json
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\bin\Debug\net6.0\UnbanGTAG.runtimeconfig.json
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\bin\Debug\net6.0\UnbanGTAG.dll
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\bin\Debug\net6.0\UnbanGTAG.pdb
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.csproj.AssemblyReference.cache
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.AssemblyInfoInputs.cache
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.AssemblyInfo.cs
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.csproj.CoreCompileInputs.cache
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.dll
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\refint\UnbanGTAG.dll
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.pdb
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\UnbanGTAG.genruntimeconfig.cache
+C:\Users\finni\RiderProjects\UnbanGTAG\UnbanGTAG\obj\Debug\net6.0\ref\UnbanGTAG.dll
